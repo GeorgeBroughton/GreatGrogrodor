@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GreatGrogrodor
+- 👋 Hi, I’m @GreatGrogrodor aka George
 - 👀 I’m interested in automation of any kind
 - 🌱 I’m currently learning PowerShell
 - 💞️ I’m looking to collaborate on anything automation related
